@@ -1,0 +1,48 @@
+#content {
+  width: 1000px;
+  height: 100px;
+}
+
+.tv {
+  width: 600px;
+  height: 410px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: rgb(98, 95, 95);
+  border: 6px solid black;
+  border-radius: 25px;
+}
+
+.screen {
+  width: 480px;
+  height: 270px;
+  margin: auto;
+  margin-top: 35px;
+  background-color: rgb(96, 10, 201);
+  border: 6px solid rgb(0, 0, 0);
+  border-radius: 25px;
+}
+
+.button {
+  height: 25px;
+  width: 25px;
+  background-color: rgb(255, 93, 239);
+  border: 2px solid rgb(59, 58, 58);
+  border-radius: 50%;
+  float: right;
+  margin-top: 10px;
+  margin-right: 55px;
+}
+
+.air {
+  width: 210px;
+  height: 30px;
+  margin: auto;
+  margin-top: 63px;
+  background-color: gray;
+}
+
+video {
+  width: 480px;
+  border-radius: 20px;
+}
