@@ -1,0 +1,42 @@
+#container {
+  max-width: 875px;
+  height: auto;
+  margin: auto;
+}
+
+header {
+  background-color: rgb(40, 140, 211);
+  height: 100px;
+}
+
+nav {
+  width: 160px;
+  height: 300px;
+  background-color: rgb(117, 202, 238);
+  margin: 0;
+  display: inline-block;
+}
+
+nav a {
+  color: red;
+  display: block;
+}
+
+article {
+  width: 714px;
+  height: 300px;
+  /* border-left: 1px solid black; */
+  float: right;
+}
+
+footer {
+  height: 100px;
+  background-color: rgb(40, 140, 211);
+}
+
+footer h4 {
+  color: white;
+  text-align: center;
+  margin: auto;
+  padding-top: 36px;
+}

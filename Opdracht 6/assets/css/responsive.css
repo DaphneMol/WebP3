@@ -1,0 +1,19 @@
+#container {
+  width: 100%;
+  max-width: 960px;
+}
+
+nav {
+  width: 16.66666667%;
+}
+
+article {
+  width: 83.33333333%;
+}
+
+@media only screen and (max-width: 500px) {
+  nav,
+  article {
+    width: 100%;
+  }
+}
